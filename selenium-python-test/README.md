@@ -1,17 +1,17 @@
 # Selenium-Python-Example
 
-This repository contains the base setup of an UI testing project,
-using Python, Selenium Webdriver and Page Object Model pattern.
+This repository contains the base setup of a UI testing project,
+using Python, Selenium Webdriver, and Page Object Model pattern.
 
-A simple search in DuckDuckGo to check that results are displayed is used as example
+A simple search in DuckDuckGo to check that results are displayed is used as an example
 
 # Requirements
 
 * Python 3.7.X
-* pip and setuptools
+* pip and setup tools
 * [venv](<https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/>) (recommended)
 
-# Instalation
+# Installation
 
 1. Download or clone the repository 
 2. Open a terminal
